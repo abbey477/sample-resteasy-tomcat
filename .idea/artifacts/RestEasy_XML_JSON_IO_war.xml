@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestEasy-XML-JSON-IO:war">
+    <output-path>$PROJECT_DIR$/RestEasy-XML-JSON-IO/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RestEasy-XML-JSON-IO</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="RestEasy-XML-JSON-IO.war">
+      <element id="artifact" artifact-name="RestEasy-XML-JSON-IO:war exploded" />
+    </root>
+  </artifact>
+</component>
