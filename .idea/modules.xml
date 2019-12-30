@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RestEasy-XML-JSON-IO/RestEasy-XML-JSON-IO.iml" filepath="$PROJECT_DIR$/RestEasy-XML-JSON-IO/RestEasy-XML-JSON-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleresteasy/sampleresteasy.iml" filepath="$PROJECT_DIR$/sampleresteasy/sampleresteasy.iml" />
+    </modules>
+  </component>
+</project>

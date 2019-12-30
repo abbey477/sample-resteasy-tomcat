@@ -1,0 +1,5 @@
+com/app/dev/services/MovieCrudService.class
+com/app/dev/services/MessageRestService.class
+com/app/dev/Application.class
+com/app/dev/services/LibraryRestService.class
+com/app/dev/model/Movie.class

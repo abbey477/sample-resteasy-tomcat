@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sampleresteasy:war">
+    <output-path>$PROJECT_DIR$/sampleresteasy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sampleresteasy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="app.war">
+      <element id="artifact" artifact-name="sampleresteasy:war exploded" />
+    </root>
+  </artifact>
+</component>
